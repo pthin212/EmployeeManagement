@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "ciUTvtmBjCE5cEMDCmFv9eigMxu4qOe07iX9L8Sogjw=",
+  "Source": "ptct126.Components",
+  "BasePath": "_content/ptct126.Components",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ptct126.Components\\wwwroot",
+      "Source": "ptct126.Components",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Máy tính\\Lập trình dotNET\\realDotNetProj\\ct246Proj\\ptct126.Components\\wwwroot\\",
+      "BasePath": "_content/ptct126.Components",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP\\OneDrive\\Máy tính\\Lập trình dotNET\\realDotNetProj\\ct246Proj\\ptct126.Components\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ptct126.Components.styles.css",
+      "SourceId": "ptct126.Components",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Máy tính\\Lập trình dotNET\\realDotNetProj\\ct246Proj\\ptct126.Components\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ptct126.Components",
+      "RelativePath": "ptct126.Components.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\HP\\OneDrive\\Máy tính\\Lập trình dotNET\\realDotNetProj\\ct246Proj\\ptct126.Components\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ptct126.Components.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\OneDrive\\Máy tính\\Lập trình dotNET\\realDotNetProj\\ct246Proj\\ptct126.Components\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ptct126.Components.bundle.scp.css",
+      "SourceId": "ptct126.Components",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Máy tính\\Lập trình dotNET\\realDotNetProj\\ct246Proj\\ptct126.Components\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ptct126.Components",
+      "RelativePath": "ptct126.Components.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\HP\\OneDrive\\Máy tính\\Lập trình dotNET\\realDotNetProj\\ct246Proj\\ptct126.Components\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ptct126.Components.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\OneDrive\\Máy tính\\Lập trình dotNET\\realDotNetProj\\ct246Proj\\ptct126.Components\\wwwroot\\background.png",
+      "SourceId": "ptct126.Components",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Máy tính\\Lập trình dotNET\\realDotNetProj\\ct246Proj\\ptct126.Components\\wwwroot\\",
+      "BasePath": "_content/ptct126.Components",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\OneDrive\\Máy tính\\Lập trình dotNET\\realDotNetProj\\ct246Proj\\ptct126.Components\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "ptct126.Components",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Máy tính\\Lập trình dotNET\\realDotNetProj\\ct246Proj\\ptct126.Components\\wwwroot\\",
+      "BasePath": "_content/ptct126.Components",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}
